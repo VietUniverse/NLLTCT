@@ -1,11 +1,11 @@
 #include <iostream>
-#include <cmath>
+#include <math.h>
 
 using namespace std;
 
 #define EPSILON 1e-15
 
-double canbachai(double n);
+double CanBacHai(double n);
 
 int main() {
     double n;
@@ -13,10 +13,10 @@ int main() {
     if (n < 0) {
         return 1;
     }
-    cout << canbachai(n) << endl;
+    cout << CanBacHai(n) << endl;
     return 0;
 }
-double canbachai(double n) {
+double CanBacHai(double n) {
     double t = n;
     while (fabs(t - n / t) > t * EPSILON) {
         t = (t + n / t) / 2.0;

@@ -35,7 +35,6 @@ int main() {
     
 }
 
-//Ham kiem tra nguyen to
 int KiemTraNguyenTo(int N) {
     if (N == 1) {
         return false;
@@ -94,18 +93,18 @@ void PhanTichThuaSoNT(int N) {
     }
 
     else {
-        int new_N = N, check = 0;
+        int A = N, count = 0;
 
         for (int i = 2; i <= sqrt(N); i++) {
-            while (new_N % i == 0) {
-                if (check != 0) {
+            while (A % i == 0) {
+                if (count != 0) {
                     cout << ".";
                 }
                     
-                new_N /= i;
+                A /= i;
                 cout << i;
 
-                check++;
+                count++;
             }    
 
         }
