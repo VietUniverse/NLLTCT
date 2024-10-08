@@ -1,8 +1,12 @@
 #include <iostream>
 #include <cmath>
-const double epsilon = 1e-15;
+
 using namespace std;
+
+#define EPSILON 1e-15
+
 double canbachai(double n);
+
 int main() {
     double n;
     cin >> n;
@@ -14,7 +18,7 @@ int main() {
 }
 double canbachai(double n) {
     double t = n;
-    while (fabs(t - n / t) > t * epsilon) {
+    while (fabs(t - n / t) > t * EPSILON) {
         t = (t + n / t) / 2.0;
     }
     return t;

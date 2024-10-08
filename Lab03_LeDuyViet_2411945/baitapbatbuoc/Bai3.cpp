@@ -3,6 +3,7 @@
 #include <math.h>
 
 using namespace std;
+
 void Xuat(int so);
 unsigned int TimLuyThua(unsigned int b, unsigned int n);
 void DoiCoSo(unsigned int n, unsigned int b);

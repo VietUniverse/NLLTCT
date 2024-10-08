@@ -1,7 +1,10 @@
 #include <iostream>
-#include <cmath>
+#include <math.h>
+
 using namespace std;
+
 double laisuat(double N, double L, int T);
+
 int main() 
 {
     double N, L;

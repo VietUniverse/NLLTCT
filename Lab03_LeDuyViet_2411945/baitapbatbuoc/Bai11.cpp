@@ -3,6 +3,7 @@
 #include <math.h>
 
 using namespace std;
+
 int SinhSo(int k);
 void DoanSo(int so, int k);
 

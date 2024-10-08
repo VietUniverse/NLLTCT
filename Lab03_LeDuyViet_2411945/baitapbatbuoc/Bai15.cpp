@@ -1,13 +1,11 @@
 #include <iostream>
-#include <cmath>
+#include <math.h>
 
 using namespace std;
 
 int main() {
     double M, N, T;
     int n;
-
-    // Nhập thông tin từ người dùng
     cout << "Nhap gia xe: ";
     cin >> M;
     cout << "Nhap so tien tra truoc: ";

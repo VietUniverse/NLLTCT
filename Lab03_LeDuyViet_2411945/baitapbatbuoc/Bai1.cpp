@@ -1,6 +1,9 @@
 #include <iostream>
+
 using namespace std;
+
 void GiaiPhuongTrinhBacHai(double a, double b, int &SoNghiem);
+
 int main() {
     double a, b;
     int SoNghiem;

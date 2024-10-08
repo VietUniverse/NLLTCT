@@ -1,6 +1,9 @@
 #include <iostream>
+
 using namespace std;
+
 double BMI(double CanNang, double ChieuCao);
+
 int main() 
 {
     double w, h, a;
