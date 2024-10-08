@@ -20,7 +20,7 @@ int main()
 float NhapMotSoKhacKhong()
 {
     float so;
-    // sài while sẽ tạo ra bug nên sài do...while sẽ tối ưu và hợp lí hơn
+    //Sử dụng do...while sẽ tối ưu và hợp lí hơn
     do
     {
         cout << endl << " nhap mot so thuc (khac 0) : ";

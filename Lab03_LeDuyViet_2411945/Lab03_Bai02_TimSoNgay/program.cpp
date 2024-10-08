@@ -3,16 +3,14 @@
 
 using namespace std;
 
-//Khai báo nguyên mẫu 
 int TimSoNgay(int thang, int nam);
 int NhapSoTrongMien(int min, int max);
 
-//Hàm main
 int main() {
 
     int ngay, thang, nam;
 
-    cout << "Nhap mot thang trong nam: ";
+    cout << "Nhap mot thang bat ky trong nam: ";
     thang = NhapSoTrongMien(1, 12);
 
     cout << "Nhap nam duong lich";

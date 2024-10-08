@@ -6,7 +6,7 @@ using namespace std;
 void ThongKe(unsigned int n);
 unsigned short NhapDiem(int stt);
 
-int main(int argc, const char **argv) {
+int main() {
 
 	unsigned int n = 0;
 
@@ -31,17 +31,12 @@ unsigned short NhapDiem(int stt) {
 
 
 void ThongKe(unsigned int n) {
-	// Khai báo các biến đếm để thống kê theo điểm số
 	int d0 = 0, d1 = 0, d2 = 0, d3 = 0, d4 = 0, d5 = 0,
 		d6 = 0, d7 = 0, d8 = 0, d9 = 0, d10 = 0;
 
 	unsigned short diem = 0;
-
-	// Duyệt qua từng sinh viên
 	for (int i = 0; i < n; i++) {
-		// Nhập điểm cho sinh viên thứ i 
 		diem = NhapDiem(i + 1);
-
 		switch (diem) {
 			case 10: d10++;
 			case 9: d9++;
@@ -56,8 +51,6 @@ void ThongKe(unsigned int n) {
 			case 0: d0++;
 		}
 	}
-
-	// Xuất kết quả thống kê
 	cout << endl << "So sinh vien co diem >= 0 : " << d0;
 	cout << endl << "So sinh vien co diem >= 1 : " << d1;
 	cout << endl << "So sinh vien co diem >= 2 : " << d2;

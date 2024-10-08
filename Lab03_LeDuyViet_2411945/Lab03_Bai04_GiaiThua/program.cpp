@@ -6,7 +6,7 @@ using namespace std;
 int TinhGiaiThua(unsigned int);
 int TinhTong(unsigned int);
 
-int main(int argc, const char **argv) {
+int main() {
 
 	unsigned int n = 0;
 
@@ -34,7 +34,7 @@ int TinhGiaiThua(unsigned int n) {
 		kq = 1;
 	}
 	else {
-		kq = 1; // Khai báo biến lưu kết quả
+		kq = 1;
 
 		for (int i = 2; i <= n; i++) {
 			kq *= i;
@@ -46,7 +46,7 @@ int TinhGiaiThua(unsigned int n) {
 
 
 int TinhTong(unsigned int n) {
-	int sum = 0; // Khai báo biến để lưu kết quả
+	int sum = 0;
 
 	for (int i = 1; i <= n; i++) {
 		sum += i;
