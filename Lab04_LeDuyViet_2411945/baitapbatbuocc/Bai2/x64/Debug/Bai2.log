@@ -1,0 +1,5 @@
+﻿  program.cpp
+D:\Lab\NLLTCT\Lab04_LeDuyViet_2411945\baitapbatbuocc\Bai2\thuvien.h(14,22): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+  (compiling source file 'program.cpp')
+  
+  Bai2.vcxproj -> D:\Lab\NLLTCT\Lab04_LeDuyViet_2411945\baitapbatbuocc\x64\Debug\Bai2.exe

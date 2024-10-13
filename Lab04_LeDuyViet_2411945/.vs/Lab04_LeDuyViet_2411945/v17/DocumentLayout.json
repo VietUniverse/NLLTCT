@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lab\\NLLTCT\\Lab04_LeDuyViet_2411945\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{080D2FC3-6105-4DCB-B999-1791AD1D93BE}|Lab04_Bai02_DienTichHinhHocc\\Lab04_Bai02_DienTichHinhHocc.vcxproj|D:\\Lab\\NLLTCT\\Lab04_LeDuyViet_2411945\\Lab04_Bai02_DienTichHinhHoc\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{080D2FC3-6105-4DCB-B999-1791AD1D93BE}|Lab04_Bai02_DienTichHinhHocc\\Lab04_Bai02_DienTichHinhHocc.vcxproj|solutionrelative:Lab04_Bai02_DienTichHinhHoc\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "program.cpp",
+              "DocumentMoniker": "D:\\Lab\\NLLTCT\\Lab04_LeDuyViet_2411945\\Lab04_Bai02_DienTichHinhHoc\\program.cpp",
+              "RelativeDocumentMoniker": "Lab04_Bai02_DienTichHinhHoc\\program.cpp",
+              "ToolTip": "D:\\Lab\\NLLTCT\\Lab04_LeDuyViet_2411945\\Lab04_Bai02_DienTichHinhHoc\\program.cpp",
+              "RelativeToolTip": "Lab04_Bai02_DienTichHinhHoc\\program.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T03:58:20.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

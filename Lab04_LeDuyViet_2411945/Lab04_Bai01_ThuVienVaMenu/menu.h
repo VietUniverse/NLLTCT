@@ -12,25 +12,24 @@ void ChayChuongTrinh();
 // Định nghĩa các hàm xử lý menu
 // =======================================================
 
-// Định nghĩa hàm xuất danh sách chức năng ra màn hình
+
 void XuatMenu()
 {
     cout << endl << "======== CHON CHUC NANG ========";
     cout << endl << "1. Chuc nang thu nhat";
     cout << endl << "2. Chuc nang thu hai";
     cout << endl << "3. Chuc nang thu ba";
-    cout << endl << "4. Chuc nang thu tu";  // Sửa lại thứ tự chức năng
+    cout << endl << "4. Chuc nang thu tu";
     cout << endl << "0. Thoat khoi chuong trinh";
     cout << endl << "================================";
 }
 
-// Định nghĩa hàm chọn một menu trong danh sách
 int ChonMenu(int soMenu)
 {
     int stt;
     do
     {
-        system("cls");  // Xóa màn hình để tạo giao diện sạch sẽ hơn
+        system("cls");
         XuatMenu();
         cout << endl << "Nhap 1 so de chon menu: ";
         cin >> stt;
@@ -39,7 +38,6 @@ int ChonMenu(int soMenu)
     return stt;
 }
 
-// Định nghĩa hàm xử lý menu tùy thuộc vào chức năng do người dùng chọn
 void XuLyMenu(int menu)
 {
     switch (menu)
@@ -63,17 +61,15 @@ void XuLyMenu(int menu)
 
     if (menu > 0)
     {
-        // Yêu cầu người dùng nhấn phím bất kỳ để tiếp tục
         cout << endl << endl << "Nhan 1 phim bat ky de tiep tuc";
-        getch();  // Thay _getch() thành getch() từ conio.h
+        getch();
     }
 }
 
-// Định nghĩa hàm chính để chạy chương trình
 void ChayChuongTrinh()
 {
     int chon;
-    const int soMenu = 4;  // Đặt số menu là hằng số để dễ quản lý
+    const int soMenu = 4;
     do
     { 
         chon = ChonMenu(soMenu);

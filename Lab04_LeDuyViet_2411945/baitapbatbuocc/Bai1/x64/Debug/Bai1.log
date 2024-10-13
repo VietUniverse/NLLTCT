@@ -1,0 +1,5 @@
+﻿  program.cpp
+D:\Lab\NLLTCT\Lab04_LeDuyViet_2411945\baitapbatbuocc\Bai1\thuvien.h(15,23): warning C4018: '<=': signed/unsigned mismatch
+  (compiling source file 'program.cpp')
+  
+  Bai1.vcxproj -> D:\Lab\NLLTCT\Lab04_LeDuyViet_2411945\baitapbatbuocc\x64\Debug\Bai1.exe
