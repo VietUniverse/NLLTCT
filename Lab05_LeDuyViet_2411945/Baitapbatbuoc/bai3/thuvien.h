@@ -1,5 +1,15 @@
 typedef int DaySo[100];
 
+void InputArr(DaySo a, int n);
+void SapMangTheoThuTu(DaySo a, int n, int thuTu);
+int KiemTraNguyenTo(int n);
+void SapSoDuongTangDan(DaySo a, int n);
+void SapKhongCuoiTangDan(DaySo a, int n);
+void SapKhongAmDuong(DaySo a, int n);
+void SapLeChan(DaySo a, int n);
+void SapLeChanKhongDoiViTri(DaySo a, int n);
+void XaoTronMang(DaySo a, int n);
+void SapNguyenToVaKhac(DaySo a, int n);
 
 void InputArr(DaySo a, int n)
 {

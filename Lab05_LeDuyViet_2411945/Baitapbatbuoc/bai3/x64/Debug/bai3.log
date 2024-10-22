@@ -1,5 +1,5 @@
 ﻿  program.cpp
-D:\Lab\NLLTCT\Lab05_LeDuyViet_2411945\Baitapbatbuoc\bai3\thuvien.h(134,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Lab\NLLTCT\Lab05_LeDuyViet_2411945\Baitapbatbuoc\bai3\thuvien.h(144,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   (compiling source file 'program.cpp')
   
 D:\Lab\NLLTCT\Lab05_LeDuyViet_2411945\Baitapbatbuoc\bai3\menu.h(44,26): warning C4101: 'k': unreferenced local variable
