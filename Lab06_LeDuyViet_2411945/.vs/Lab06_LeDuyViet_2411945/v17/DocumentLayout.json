@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lab\\NLLTCT\\Lab06_LeDuyViet_2411945\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61B3ACAC-2917-475A-ABAE-D2079C03A59D}|Lab06_Bai02_DuyetMaTran\\Lab06_Bai02_DuyetMaTran.vcxproj|D:\\Lab\\NLLTCT\\Lab06_LeDuyViet_2411945\\Lab06_Bai02_DuyetMaTran\\thuvien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61B3ACAC-2917-475A-ABAE-D2079C03A59D}|Lab06_Bai02_DuyetMaTran\\Lab06_Bai02_DuyetMaTran.vcxproj|solutionrelative:Lab06_Bai02_DuyetMaTran\\thuvien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B3ACAC-2917-475A-ABAE-D2079C03A59D}|Lab06_Bai02_DuyetMaTran\\Lab06_Bai02_DuyetMaTran.vcxproj|D:\\Lab\\NLLTCT\\Lab06_LeDuyViet_2411945\\Lab06_Bai02_DuyetMaTran\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61B3ACAC-2917-475A-ABAE-D2079C03A59D}|Lab06_Bai02_DuyetMaTran\\Lab06_Bai02_DuyetMaTran.vcxproj|solutionrelative:Lab06_Bai02_DuyetMaTran\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9EA526-1FB3-4F70-9923-E6D628618073}|Lab06_Bai01_MangHaiChieu\\Lab06_Bai01_MangHaiChieu.vcxproj|D:\\Lab\\NLLTCT\\Lab06_LeDuyViet_2411945\\Lab06_Bai01_MangHaiChieu\\thuvien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A9EA526-1FB3-4F70-9923-E6D628618073}|Lab06_Bai01_MangHaiChieu\\Lab06_Bai01_MangHaiChieu.vcxproj|solutionrelative:Lab06_Bai01_MangHaiChieu\\thuvien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9EA526-1FB3-4F70-9923-E6D628618073}|Lab06_Bai01_MangHaiChieu\\Lab06_Bai01_MangHaiChieu.vcxproj|D:\\Lab\\NLLTCT\\Lab06_LeDuyViet_2411945\\Lab06_Bai01_MangHaiChieu\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A9EA526-1FB3-4F70-9923-E6D628618073}|Lab06_Bai01_MangHaiChieu\\Lab06_Bai01_MangHaiChieu.vcxproj|solutionrelative:Lab06_Bai01_MangHaiChieu\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B3ACAC-2917-475A-ABAE-D2079C03A59D}|Lab06_Bai02_DuyetMaTran\\Lab06_Bai02_DuyetMaTran.vcxproj|D:\\Lab\\NLLTCT\\Lab06_LeDuyViet_2411945\\Lab06_Bai02_DuyetMaTran\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61B3ACAC-2917-475A-ABAE-D2079C03A59D}|Lab06_Bai02_DuyetMaTran\\Lab06_Bai02_DuyetMaTran.vcxproj|solutionrelative:Lab06_Bai02_DuyetMaTran\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9EA526-1FB3-4F70-9923-E6D628618073}|Lab06_Bai01_MangHaiChieu\\Lab06_Bai01_MangHaiChieu.vcxproj|D:\\Lab\\NLLTCT\\Lab06_LeDuyViet_2411945\\Lab06_Bai01_MangHaiChieu\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A9EA526-1FB3-4F70-9923-E6D628618073}|Lab06_Bai01_MangHaiChieu\\Lab06_Bai01_MangHaiChieu.vcxproj|solutionrelative:Lab06_Bai01_MangHaiChieu\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Lab\\NLLTCT\\Lab06_LeDuyViet_2411945\\Lab06_Bai01_DuyetMaTran\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab06_Bai01_DuyetMaTran\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "program.cpp",
+              "DocumentMoniker": "D:\\Lab\\NLLTCT\\Lab06_LeDuyViet_2411945\\Lab06_Bai02_DuyetMaTran\\program.cpp",
+              "RelativeDocumentMoniker": "Lab06_Bai02_DuyetMaTran\\program.cpp",
+              "ToolTip": "D:\\Lab\\NLLTCT\\Lab06_LeDuyViet_2411945\\Lab06_Bai02_DuyetMaTran\\program.cpp",
+              "RelativeToolTip": "Lab06_Bai02_DuyetMaTran\\program.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T07:02:28.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "menu.h",
+              "DocumentMoniker": "D:\\Lab\\NLLTCT\\Lab06_LeDuyViet_2411945\\Lab06_Bai02_DuyetMaTran\\menu.h",
+              "RelativeDocumentMoniker": "Lab06_Bai02_DuyetMaTran\\menu.h",
+              "ToolTip": "D:\\Lab\\NLLTCT\\Lab06_LeDuyViet_2411945\\Lab06_Bai02_DuyetMaTran\\menu.h",
+              "RelativeToolTip": "Lab06_Bai02_DuyetMaTran\\menu.h",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-22T07:01:46.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "thuvien.h",
+              "DocumentMoniker": "D:\\Lab\\NLLTCT\\Lab06_LeDuyViet_2411945\\Lab06_Bai02_DuyetMaTran\\thuvien.h",
+              "RelativeDocumentMoniker": "Lab06_Bai02_DuyetMaTran\\thuvien.h",
+              "ToolTip": "D:\\Lab\\NLLTCT\\Lab06_LeDuyViet_2411945\\Lab06_Bai02_DuyetMaTran\\thuvien.h",
+              "RelativeToolTip": "Lab06_Bai02_DuyetMaTran\\thuvien.h",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-22T07:01:37.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "program.cpp",
+              "DocumentMoniker": "D:\\Lab\\NLLTCT\\Lab06_LeDuyViet_2411945\\Lab06_Bai01_DuyetMaTran\\program.cpp",
+              "RelativeDocumentMoniker": "Lab06_Bai01_DuyetMaTran\\program.cpp",
+              "ToolTip": "D:\\Lab\\NLLTCT\\Lab06_LeDuyViet_2411945\\Lab06_Bai01_DuyetMaTran\\program.cpp",
+              "RelativeToolTip": "Lab06_Bai01_DuyetMaTran\\program.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T06:54:44.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "menu.h",
+              "DocumentMoniker": "D:\\Lab\\NLLTCT\\Lab06_LeDuyViet_2411945\\Lab06_Bai01_MangHaiChieu\\menu.h",
+              "RelativeDocumentMoniker": "Lab06_Bai01_MangHaiChieu\\menu.h",
+              "ToolTip": "D:\\Lab\\NLLTCT\\Lab06_LeDuyViet_2411945\\Lab06_Bai01_MangHaiChieu\\menu.h",
+              "RelativeToolTip": "Lab06_Bai01_MangHaiChieu\\menu.h",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-22T06:23:16.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "thuvien.h",
+              "DocumentMoniker": "D:\\Lab\\NLLTCT\\Lab06_LeDuyViet_2411945\\Lab06_Bai01_MangHaiChieu\\thuvien.h",
+              "RelativeDocumentMoniker": "Lab06_Bai01_MangHaiChieu\\thuvien.h",
+              "ToolTip": "D:\\Lab\\NLLTCT\\Lab06_LeDuyViet_2411945\\Lab06_Bai01_MangHaiChieu\\thuvien.h",
+              "RelativeToolTip": "Lab06_Bai01_MangHaiChieu\\thuvien.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-22T06:23:06.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "program.cpp",
+              "DocumentMoniker": "D:\\Lab\\NLLTCT\\Lab06_LeDuyViet_2411945\\Lab06_Bai01_MangHaiChieu\\program.cpp",
+              "RelativeDocumentMoniker": "Lab06_Bai01_MangHaiChieu\\program.cpp",
+              "ToolTip": "D:\\Lab\\NLLTCT\\Lab06_LeDuyViet_2411945\\Lab06_Bai01_MangHaiChieu\\program.cpp",
+              "RelativeToolTip": "Lab06_Bai01_MangHaiChieu\\program.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T06:22:34.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
