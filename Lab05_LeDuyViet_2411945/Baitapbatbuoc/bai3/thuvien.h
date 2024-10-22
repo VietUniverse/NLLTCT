@@ -1,20 +1,40 @@
 typedef int DaySo[100];
 
-int DemSoLe(DaySo a, int n);
-int DemSoChiaHet(DaySo a, int n);
-int DemXViTriLe(DaySo a, int n, int x);
-int DemSo3ChuSo(DaySo a, int n);
-int DemSoNgoaiDoan(DaySo a, int n, int min, int max);
-int DemSoChinhPhuong(DaySo a, int n);
-int DemKXuatHien(DaySo a, int n, int k);
-int DemLanXuatHien(DaySo a, int n, int x, int vt);
 
-int KiemTraNguyenTo(int n)
+void InputArr(DaySo a, int n)
 {
-    if (n < 2) 
-       return 0;
-    for (int i = 2; i <= sqrt(n); i++)
+    for (int i = 0; i < n; i++)
     {
+        cout << "a[" << i << "] = ";
+        cin >> a[i];
+    }
+}
+
+void SapMangTheoThuTu(DaySo a, int n, int thuTu) {
+    for (int i = 1; i < n; i++) {
+        int key = a[i];
+        int j = i - 1;
+
+        if (thuTu) {
+            while (j >= 0 && a[j] > key) {
+                a[j + 1] = a[j];
+                j--;
+            }
+        } else {
+            while (j >= 0 && a[j] < key) {
+                a[j + 1] = a[j];
+                j--;
+            }
+        }
+
+        a[j + 1] = key;
+    }
+}
+
+int KiemTraNguyenTo(int n) {
+    if (n < 2) 
+        return 0;
+    for (int i = 2; i <= sqrt(n); i++) {
         if (n % i == 0) 
             return 0;
     }
@@ -22,19 +42,15 @@ int KiemTraNguyenTo(int n)
 }
 
 void SapSoDuongTangDan(DaySo a, int n) {
-    for (int i = 0; i < n - 1; i++) 
-    {
-        for (int j = i + 1; j < n; j++)
-        {
+    for (int i = 0; i < n - 1; i++) {
+        for (int j = i + 1; j < n; j++) {
             if (a[i] > a[j] && a[i] > 0 && a[j] > 0)
                 swap(a[i], a[j]);
         }
-
     }
 }
 
-void SapKhongCuoiTangDan(DaySo a, int n)
-{
+void SapKhongCuoiTangDan(DaySo a, int n) {
     int j = 0;
     for (int i = 0; i < n; i++) {
         if (a[i] != 0) {
@@ -52,8 +68,7 @@ void SapKhongCuoiTangDan(DaySo a, int n)
         }
     }
 }
-void SapKhongAmDuong(DaySo & a, int n) 
-{
+void SapKhongAmDuong(DaySo a, int n) {
     int left = 0, right = n - 1, i = 0;
 
     while (i <= right) {
@@ -72,8 +87,7 @@ void SapKhongAmDuong(DaySo & a, int n)
     }
 }
 
-void SapLeChan(DaySo a, int n) 
-{
+void SapLeChan(DaySo a, int n) {
     int left = 0, right = n - 1, i = 0;
 
     while (i <= right) {
@@ -88,11 +102,13 @@ void SapLeChan(DaySo a, int n)
         }
     }
 }
+
 void SapLeChanKhongDoiViTri(DaySo a, int n) 
 {
     int left = 0, right = n - 1;
 
-    for (int i = left; i < right; i += 2) {
+    for (int i = left; i < right; i += 2) 
+    {
         int minIndex = i;
         for (int j = i + 2; j <= right; j += 2) {
             if (a[j] < a[minIndex]) {
@@ -102,7 +118,8 @@ void SapLeChanKhongDoiViTri(DaySo a, int n)
         swap(a[i], a[minIndex]);
     }
 
-    for (int i = right; i > left; i -= 2) {
+    for (int i = right; i > left; i -= 2) 
+    {
         int maxIndex = i;
         for (int j = i - 2; j >= left; j -= 2) {
             if (a[j] > a[maxIndex]) {
@@ -121,14 +138,13 @@ void XaoTronMang(DaySo a, int n)
     }
 }
 
-void SapNguyenToTang(DaySo a, int n) {
-    bool isPrime[1000];
-    memset(isPrime, true, sizeof(isPrime));
-
+void SapNguyenToVaKhac(DaySo a, int n) {
     int left = 0, right = n - 1, i = 0;
 
-    while (i <= right) {
-        if (isPrime[a[i]]) {
+    while (i <= right) 
+    {
+        if (KiemTraNguyenTo(a[i])) 
+        {
             swap(a[i], a[left]);
             left++;
             i++;
@@ -138,13 +154,23 @@ void SapNguyenToTang(DaySo a, int n) {
             right--;
         }
     }
-    for (int i = left; i < right; i++) {
-        int minIndex = i;
-        for (int j = i + 1; j < right; j++) {
-            if (a[j] < a[minIndex]) {
-                minIndex = j;
+    for (int i = 0; i < left - 1; i++) 
+    {
+        for (int j = i + 1; j < left; j++) 
+        {
+            if (a[i] > a[j]) {
+                swap(a[i], a[j]);
             }
         }
-        swap(a[i], a[minIndex]);
+    }
+
+    for (int i = left; i < n - 1; i++) 
+    {
+        for (int j = i + 1; j < n; j++) 
+        {
+            if (a[i] < a[j]) {
+                swap(a[i], a[j]);
+            }
+        }
     }
 }

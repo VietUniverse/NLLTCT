@@ -1,0 +1,20 @@
+﻿  program.cpp
+D:\Lab\NLLTCT\Lab05_LeDuyViet_2411945\Baitapbatbuoc\bai3\thuvien.h(134,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'program.cpp')
+  
+D:\Lab\NLLTCT\Lab05_LeDuyViet_2411945\Baitapbatbuoc\bai3\menu.h(44,26): warning C4101: 'k': unreferenced local variable
+  (compiling source file 'program.cpp')
+  
+D:\Lab\NLLTCT\Lab05_LeDuyViet_2411945\Baitapbatbuoc\bai3\menu.h(44,17): warning C4101: 'max': unreferenced local variable
+  (compiling source file 'program.cpp')
+  
+D:\Lab\NLLTCT\Lab05_LeDuyViet_2411945\Baitapbatbuoc\bai3\menu.h(44,22): warning C4101: 'vt': unreferenced local variable
+  (compiling source file 'program.cpp')
+  
+D:\Lab\NLLTCT\Lab05_LeDuyViet_2411945\Baitapbatbuoc\bai3\menu.h(44,12): warning C4101: 'min': unreferenced local variable
+  (compiling source file 'program.cpp')
+  
+D:\Lab\NLLTCT\Lab05_LeDuyViet_2411945\Baitapbatbuoc\bai3\menu.h(44,9): warning C4101: 'x': unreferenced local variable
+  (compiling source file 'program.cpp')
+  
+  bai3.vcxproj -> D:\Lab\NLLTCT\Lab05_LeDuyViet_2411945\Baitapbatbuoc\x64\Debug\bai3.exe
