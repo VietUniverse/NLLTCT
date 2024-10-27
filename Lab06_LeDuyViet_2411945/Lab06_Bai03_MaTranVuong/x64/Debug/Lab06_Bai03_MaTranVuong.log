@@ -1,0 +1,8 @@
+﻿  program.cpp
+D:\Lab\NLLTCT\Lab06_LeDuyViet_2411945\Lab06_Bai03_MaTranVuong\thuvien.h(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'program.cpp')
+  
+D:\Lab\NLLTCT\Lab06_LeDuyViet_2411945\Lab06_Bai03_MaTranVuong\menu.h(35,6): warning C4101: 'vt': unreferenced local variable
+  (compiling source file 'program.cpp')
+  
+  Lab06_Bai03_MaTranVuong.vcxproj -> D:\Lab\NLLTCT\Lab06_LeDuyViet_2411945\x64\Debug\Lab06_Bai03_MaTranVuong.exe
