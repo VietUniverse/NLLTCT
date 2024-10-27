@@ -9,5 +9,7 @@ using namespace std;
 
 int main()
 {
-
+	MaTran mt;
+	int n,m;
+	ChayChuongTrinh(mt, n,m);
 }

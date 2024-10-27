@@ -1,0 +1,5 @@
+﻿  program.cpp
+D:\Lab\NLLTCT\Lab06_LeDuyViet_2411945\BaiTapBatBuoc\bai3\thuvien.h(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'program.cpp')
+  
+  bai3.vcxproj -> D:\Lab\NLLTCT\Lab06_LeDuyViet_2411945\BaiTapBatBuoc\x64\Debug\bai3.exe
