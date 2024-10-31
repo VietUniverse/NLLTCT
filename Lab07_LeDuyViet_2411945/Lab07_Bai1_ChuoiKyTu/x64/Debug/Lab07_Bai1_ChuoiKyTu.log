@@ -1,0 +1,11 @@
+﻿  program.cpp
+D:\Lab\NLLTCT\Lab07_LeDuyViet_2411945\Lab07_Bai1_ChuoiKyTu\menu.h(28,7): warning C4101: 'k': unreferenced local variable
+  (compiling source file 'program.cpp')
+  
+D:\Lab\NLLTCT\Lab07_LeDuyViet_2411945\Lab07_Bai1_ChuoiKyTu\menu.h(29,15): warning C4101: 'vt': unreferenced local variable
+  (compiling source file 'program.cpp')
+  
+D:\Lab\NLLTCT\Lab07_LeDuyViet_2411945\Lab07_Bai1_ChuoiKyTu\menu.h(27,11): warning C4101: 't': unreferenced local variable
+  (compiling source file 'program.cpp')
+  
+  Lab07_Bai1_ChuoiKyTu.vcxproj -> D:\Lab\NLLTCT\Lab07_LeDuyViet_2411945\x64\Debug\Lab07_Bai1_ChuoiKyTu.exe

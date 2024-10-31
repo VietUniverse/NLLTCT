@@ -1,3 +1,14 @@
 #include <iostream>
 #include <cmath>
-#include <>
+#include <conio.h>
+
+using namespace std;
+
+#include "thuvien.h"
+#include "menu.h"
+
+int main()
+{
+
+	return 0;
+}
