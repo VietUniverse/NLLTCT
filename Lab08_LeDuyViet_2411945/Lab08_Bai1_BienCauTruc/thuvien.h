@@ -76,7 +76,7 @@ void NhapMotNV(NhanVien& nv)
 	cin.ignore(1);
 	gets_s(nv.HoTen);
 	cout << "Nhap dia chi :";
-	cin.ignore(1);
+	cin.ignore(100);
 	gets_s(nv.DiaChi);
 	cout << "Nhap ngay sinh (thu tu ngay thang nam) : ";
 	cin >> nv.NgaySinh.Ngay
@@ -94,4 +94,25 @@ void NhapDSNV(MangNV a, int n)
 		NhapMotNV(a[i]);
 	}
 	cout << endl << "Da nhap xong" << endl;
+}
+
+int KiemTraMaNV(MangNV a, int n, int maSo)
+{
+	for (int i = 0; i < n; i++)
+		if (a[i].MaSo == maSo)
+			return 1;
+	return 0;
+}
+
+void ThemMotNV(MangNV a, int& n)
+{
+	NhanVien nv;
+	NhapMotNV(nv);
+	while (KiemTraMaNV(a, n, nv.MaSo))
+	{
+		cout << endl << "Ma so " << nv.MaSo << " da bi trung, nhap lai ma khac : ";
+		cin >> nv.MaSo;
+	}
+	a[n] = nv;
+	n++;
 }

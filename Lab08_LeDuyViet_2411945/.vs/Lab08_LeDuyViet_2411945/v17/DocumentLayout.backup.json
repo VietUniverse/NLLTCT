@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\Lab\\NLLTCT\\Lab08_LeDuyViet_2411945\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D1D5E03-100E-441D-B3AA-1CB7910FE1DA}|Lab08_Bai1_BienCauTruc\\Lab08_Bai1_BienCauTruc.vcxproj|D:\\Lab\\NLLTCT\\Lab08_LeDuyViet_2411945\\Lab08_Bai1_BienCauTruc\\thuvien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4D1D5E03-100E-441D-B3AA-1CB7910FE1DA}|Lab08_Bai1_BienCauTruc\\Lab08_Bai1_BienCauTruc.vcxproj|solutionrelative:Lab08_Bai1_BienCauTruc\\thuvien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4BDCEF28-4391-434F-A91C-FEDD5F285934}|Lab08_Bai2_QuanLyNhanVien\\Lab08_Bai2_QuanLyNhanVien.vcxproj|D:\\Lab\\NLLTCT\\Lab08_LeDuyViet_2411945\\Lab08_Bai2_QuanLyNhanVien\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BDCEF28-4391-434F-A91C-FEDD5F285934}|Lab08_Bai2_QuanLyNhanVien\\Lab08_Bai2_QuanLyNhanVien.vcxproj|solutionrelative:Lab08_Bai2_QuanLyNhanVien\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D1D5E03-100E-441D-B3AA-1CB7910FE1DA}|Lab08_Bai1_BienCauTruc\\Lab08_Bai1_BienCauTruc.vcxproj|D:\\Lab\\NLLTCT\\Lab08_LeDuyViet_2411945\\Lab08_Bai1_BienCauTruc\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4D1D5E03-100E-441D-B3AA-1CB7910FE1DA}|Lab08_Bai1_BienCauTruc\\Lab08_Bai1_BienCauTruc.vcxproj|solutionrelative:Lab08_Bai1_BienCauTruc\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4BDCEF28-4391-434F-A91C-FEDD5F285934}|Lab08_Bai2_QuanLyNhanVien\\Lab08_Bai2_QuanLyNhanVien.vcxproj|D:\\Lab\\NLLTCT\\Lab08_LeDuyViet_2411945\\Lab08_Bai2_QuanLyNhanVien\\thuvien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BDCEF28-4391-434F-A91C-FEDD5F285934}|Lab08_Bai2_QuanLyNhanVien\\Lab08_Bai2_QuanLyNhanVien.vcxproj|solutionrelative:Lab08_Bai2_QuanLyNhanVien\\thuvien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDCEF28-4391-434F-A91C-FEDD5F285934}|Lab08_Bai2_QuanLyNhanVien\\Lab08_Bai2_QuanLyNhanVien.vcxproj|D:\\Lab\\NLLTCT\\Lab08_LeDuyViet_2411945\\Lab08_Bai2_QuanLyNhanVien\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BDCEF28-4391-434F-A91C-FEDD5F285934}|Lab08_Bai2_QuanLyNhanVien\\Lab08_Bai2_QuanLyNhanVien.vcxproj|solutionrelative:Lab08_Bai2_QuanLyNhanVien\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D1D5E03-100E-441D-B3AA-1CB7910FE1DA}|Lab08_Bai1_BienCauTruc\\Lab08_Bai1_BienCauTruc.vcxproj|D:\\Lab\\NLLTCT\\Lab08_LeDuyViet_2411945\\Lab08_Bai1_BienCauTruc\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4D1D5E03-100E-441D-B3AA-1CB7910FE1DA}|Lab08_Bai1_BienCauTruc\\Lab08_Bai1_BienCauTruc.vcxproj|solutionrelative:Lab08_Bai1_BienCauTruc\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1D5E03-100E-441D-B3AA-1CB7910FE1DA}|Lab08_Bai1_BienCauTruc\\Lab08_Bai1_BienCauTruc.vcxproj|D:\\Lab\\NLLTCT\\Lab08_LeDuyViet_2411945\\Lab08_Bai1_BienCauTruc\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D1D5E03-100E-441D-B3AA-1CB7910FE1DA}|Lab08_Bai1_BienCauTruc\\Lab08_Bai1_BienCauTruc.vcxproj|solutionrelative:Lab08_Bai1_BienCauTruc\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "program.cpp",
+              "DocumentMoniker": "D:\\Lab\\NLLTCT\\Lab08_LeDuyViet_2411945\\Lab08_Bai2_QuanLyNhanVien\\program.cpp",
+              "RelativeDocumentMoniker": "Lab08_Bai2_QuanLyNhanVien\\program.cpp",
+              "ToolTip": "D:\\Lab\\NLLTCT\\Lab08_LeDuyViet_2411945\\Lab08_Bai2_QuanLyNhanVien\\program.cpp",
+              "RelativeToolTip": "Lab08_Bai2_QuanLyNhanVien\\program.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T14:09:31.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "menu.h",
+              "DocumentMoniker": "D:\\Lab\\NLLTCT\\Lab08_LeDuyViet_2411945\\Lab08_Bai2_QuanLyNhanVien\\menu.h",
+              "RelativeDocumentMoniker": "Lab08_Bai2_QuanLyNhanVien\\menu.h",
+              "ToolTip": "D:\\Lab\\NLLTCT\\Lab08_LeDuyViet_2411945\\Lab08_Bai2_QuanLyNhanVien\\menu.h",
+              "RelativeToolTip": "Lab08_Bai2_QuanLyNhanVien\\menu.h",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAACEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-31T14:09:23.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "thuvien.h",
+              "DocumentMoniker": "D:\\Lab\\NLLTCT\\Lab08_LeDuyViet_2411945\\Lab08_Bai2_QuanLyNhanVien\\thuvien.h",
+              "RelativeDocumentMoniker": "Lab08_Bai2_QuanLyNhanVien\\thuvien.h",
+              "ToolTip": "D:\\Lab\\NLLTCT\\Lab08_LeDuyViet_2411945\\Lab08_Bai2_QuanLyNhanVien\\thuvien.h",
+              "RelativeToolTip": "Lab08_Bai2_QuanLyNhanVien\\thuvien.h",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAuwL4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-31T14:09:14.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "program.cpp",
               "DocumentMoniker": "D:\\Lab\\NLLTCT\\Lab08_LeDuyViet_2411945\\Lab08_Bai1_BienCauTruc\\program.cpp",
               "RelativeDocumentMoniker": "Lab08_Bai1_BienCauTruc\\program.cpp",
               "ToolTip": "D:\\Lab\\NLLTCT\\Lab08_LeDuyViet_2411945\\Lab08_Bai1_BienCauTruc\\program.cpp",
               "RelativeToolTip": "Lab08_Bai1_BienCauTruc\\program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-31T03:26:45.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "menu.h",
               "DocumentMoniker": "D:\\Lab\\NLLTCT\\Lab08_LeDuyViet_2411945\\Lab08_Bai1_BienCauTruc\\menu.h",
               "RelativeDocumentMoniker": "Lab08_Bai1_BienCauTruc\\menu.h",
               "ToolTip": "D:\\Lab\\NLLTCT\\Lab08_LeDuyViet_2411945\\Lab08_Bai1_BienCauTruc\\menu.h",
               "RelativeToolTip": "Lab08_Bai1_BienCauTruc\\menu.h",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCMAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwD0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-31T03:26:35.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "thuvien.h",
-              "DocumentMoniker": "D:\\Lab\\NLLTCT\\Lab08_LeDuyViet_2411945\\Lab08_Bai1_BienCauTruc\\thuvien.h",
-              "RelativeDocumentMoniker": "Lab08_Bai1_BienCauTruc\\thuvien.h",
-              "ToolTip": "D:\\Lab\\NLLTCT\\Lab08_LeDuyViet_2411945\\Lab08_Bai1_BienCauTruc\\thuvien.h",
-              "RelativeToolTip": "Lab08_Bai1_BienCauTruc\\thuvien.h",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADQAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-31T03:26:28.472Z",
               "EditorCaption": ""
             }
           ]

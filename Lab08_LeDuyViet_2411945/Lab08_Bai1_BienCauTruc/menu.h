@@ -39,6 +39,7 @@ void XuLyMenu(int menu, MangNV a, int& n)
 		XuatDSNV(a, n);
 		break;
 	case 3:
+		ThemMotNV(a, n);
 		break;
 	default:
 		cout << endl << "Thoat chuong trinh";

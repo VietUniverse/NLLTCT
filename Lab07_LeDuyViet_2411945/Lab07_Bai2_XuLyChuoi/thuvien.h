@@ -64,6 +64,7 @@ void XoaTaiVT(Chuoi a, unsigned int vt)
 	unsigned int cd = ChieuDai(a);
 	if (vt < cd)
 	{ 
+		
 		int i = vt;
 		while (a[i] != NULL)
 		{
