@@ -1,0 +1,19 @@
+﻿  program.cpp
+D:\Lab\NLLTCT\test\test\thuvien.h(90,25): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'program.cpp')
+  
+D:\Lab\NLLTCT\test\test\thuvien.h(156,21): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file 'program.cpp')
+  
+D:\Lab\NLLTCT\test\test\menu.h(35,9): warning C4101: 'y': unreferenced local variable
+  (compiling source file 'program.cpp')
+  
+D:\Lab\NLLTCT\test\test\menu.h(35,6): warning C4101: 'x': unreferenced local variable
+  (compiling source file 'program.cpp')
+  
+D:\Lab\NLLTCT\test\test\program.cpp(11,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Lab\NLLTCT\test\test\program.cpp(12,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Lab\NLLTCT\test\test\program.cpp(13,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Lab\NLLTCT\test\test\program.cpp(14,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Lab\NLLTCT\test\test\program.cpp(15,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  test.vcxproj -> D:\Lab\NLLTCT\test\x64\Debug\test.exe

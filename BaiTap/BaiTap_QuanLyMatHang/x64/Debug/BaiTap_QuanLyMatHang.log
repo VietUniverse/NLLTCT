@@ -1,0 +1,14 @@
+﻿  program.cpp
+D:\Lab\NLLTCT\BaiTap\BaiTap_QuanLyMatHang\thuvien.h(85,26): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'program.cpp')
+  
+D:\Lab\NLLTCT\BaiTap\BaiTap_QuanLyMatHang\thuvien.h(177,6): warning C4101: 'count': unreferenced local variable
+  (compiling source file 'program.cpp')
+  
+D:\Lab\NLLTCT\BaiTap\BaiTap_QuanLyMatHang\program.cpp(14,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Lab\NLLTCT\BaiTap\BaiTap_QuanLyMatHang\program.cpp(15,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Lab\NLLTCT\BaiTap\BaiTap_QuanLyMatHang\program.cpp(16,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Lab\NLLTCT\BaiTap\BaiTap_QuanLyMatHang\program.cpp(17,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Lab\NLLTCT\BaiTap\BaiTap_QuanLyMatHang\program.cpp(18,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Lab\NLLTCT\BaiTap\BaiTap_QuanLyMatHang\thuvien.h(95,1): warning C4715: 'TimViTri': not all control paths return a value
+  BaiTap_QuanLyMatHang.vcxproj -> D:\Lab\NLLTCT\BaiTap\x64\Debug\BaiTap_QuanLyMatHang.exe
